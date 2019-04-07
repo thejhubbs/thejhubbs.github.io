@@ -1,0 +1,45 @@
+/* font-family: 'Raleway', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Acme', sans-serif;
+font-family: 'Prompt', sans-serif;
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Viga', sans-serif;
+font-family: 'Didact Gothic', sans-serif;
+font-family: 'Playfair Display SC', serif;
+font-family: 'Rock Salt', cursive; */
+
+
+html, body {
+    font-family: 'Quicksand', sans-serif;
+    }
+
+h1, h6, nav {
+font-family: 'Playfair Display SC', sans-serif;
+}
+
+h6 {
+    font-size: 120%;
+}
+
+h2, nav {
+    font-family: 'Tinos', sans-serif;
+    }
+
+h3 {
+
+    font-family: 'Viga', sans-serif;
+}
+
+h4 {
+
+    font-family: 'Rock Salt', sans-serif;
+}
+
+.banner-area .banner-content h1 {
+    font-size:6em;
+}
+
+.banner-area .banner-content h2, .banner-area .banner-content h6 {
+    font-size:200%;
+}
