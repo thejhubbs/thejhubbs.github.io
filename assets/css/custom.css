@@ -184,6 +184,21 @@ hr.small-margins {
     background: rgba(0, 0, 0, .3);
 }
 
+.about-me {
+
+    text-align:center;
+    
+}
+
+.about-me .row h2 {
+    font-size: 2rem;
+    margin: 5px 0 10px;
+}
+.about-me h6 {
+    font-weight:bold;
+}
+
+
 /* 
 @media screen and (max-width: 1680px) {
     
